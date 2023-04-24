@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTech student with a passion for programming, specifically in C and C++. Eager to learn and contribute to open source projects on GitHub. Looking to connect with others
+BTech student with a passion for programming, specifically in C, C++ and HTML. Eager to learn and contribute to open source projects on GitHub. Looking to connect with others
 
 
 ## 🌐 Socials:
