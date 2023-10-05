@@ -17,5 +17,4 @@ Welcome to my GitHub profile! I'm Fluk, a passionate coder and programmer with a
 
 ## 👾Badges:
 [![An image of @flukm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/flukm)](https://holopin.io/@flukm)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
