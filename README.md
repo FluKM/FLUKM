@@ -30,6 +30,4 @@ I'm Fluk, a dedicated coder and programmer with a strong focus on web developmen
 
 ---
 
-### 🤓 Visit Counter
-
 [![](https://visitcount.itsvg.in/api?id=FluKM&icon=7&color=0)](https://visitcount.itsvg.in)
