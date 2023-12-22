@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Varunraj Desai](www.flukm.github.io)!
+# 👋 Hello, I'm [Varunraj Desai]([www.flukm.github.io](https://flukm.github.io/))!
 
 ![Banner](https://media.discordapp.net/attachments/837990553752698880/1187751121050140756/github_banner.png?ex=6598066e&is=6585916e&hm=070c643b32a2fc8f3e92caaebebf8f9fc9dc77ce2027154c0bd704b75d6f68ae&=&format=webp&quality=lossless&width=1025&height=256)
 
@@ -20,7 +20,7 @@ I'm Fluk, a dedicated coder and programmer with a strong focus on web developmen
 
 ##  🌐 Socials
 
-[![Personal Website](https://img.shields.io/badge/-Website-007ACC?style=plastic&logo=brave&logoColor=white)](www.flukm.github.io) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/5rgW3cJTPM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vxrunrxj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varunraj-desai-7b208425a/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@flukmav) [![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=plastic&logo=blogger&logoColor=white)](https://flukmav.blogspot.com)
+[![Personal Website](https://img.shields.io/badge/-Website-007ACC?style=plastic&logo=brave&logoColor=white)]([www.flukm.github.io](https://flukm.github.io/)) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/5rgW3cJTPM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vxrunrxj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varunraj-desai-7b208425a/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@flukmav) [![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=plastic&logo=blogger&logoColor=white)](https://flukmav.blogspot.com)
 
 ## 📊 GitHub Stats
 
