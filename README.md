@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Varunraj Desai]([www.flukm.github.io](https://flukm.github.io/))!
+# 👋 Hello, I'm [Varunraj Desai](https://flukm.github.io/)!
 
 ![Banner](https://media.discordapp.net/attachments/837990553752698880/1187751121050140756/github_banner.png?ex=6598066e&is=6585916e&hm=070c643b32a2fc8f3e92caaebebf8f9fc9dc77ce2027154c0bd704b75d6f68ae&=&format=webp&quality=lossless&width=1025&height=256)
 
