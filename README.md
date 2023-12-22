@@ -1,21 +1,35 @@
-# 👾Badges:
+# 👋 Hello, I'm [Varunraj Desai](www.flukm.github.io)!
+
+![Banner](https://media.discordapp.net/attachments/837990553752698880/1187751121050140756/github_banner.png?ex=6598066e&is=6585916e&hm=070c643b32a2fc8f3e92caaebebf8f9fc9dc77ce2027154c0bd704b75d6f68ae&=&format=webp&quality=lossless&width=1025&height=256)
+
+## 👾 Badges
+
 [![An image of @flukm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/flukm)](https://holopin.io/@flukm)
 
-# 💫 About Me:
-Welcome to my GitHub profile! I'm Fluk, a passionate coder and programmer with a strong interest in web development. Currently pursuing my Bachelor of Technology (B.Tech) degree, I am constantly striving to expand my knowledge and skills in the world of coding.<br><br>Skills:<br>C/C++: I have a solid foundation in C and C++ programming languages. I enjoy working on projects that involve algorithmic problem-solving and low-level programming.<br><br>Java: I also have a solid base in the Java programming language. I am familiar with Java's object-oriented principles and have experience developing applications using Java.<br><br>HTML/CSS: I am currently learning HTML and CSS to enhance my web development skills. I find front-end development intriguing and enjoy creating visually appealing and responsive web pages.<br><br>Problem Solving: I have a knack for problem-solving and enjoy tackling complex challenges. I believe in writing clean and efficient code, and I am always eager to improve my problem-solving skills through practice and learning.<br><br>Education:<br>I am currently pursuing my Bachelor of Technology (B.Tech) degree, which provides me with a strong academic foundation in computer science and mechanical engineering. I am continually exploring various programming languages and technologies to broaden my knowledge and stay up to date with industry trends.<br><br>Projects:<br>Here are a few projects I have worked on:<br><br>Cryptography Algorithms: Developed a collection of encryption and decryption algorithms in C++.<br><br>Personal Website: Created a personal website using HTML and CSS to showcase my skills, projects, and experiences. Implemented responsive design techniques to ensure optimal viewing across different devices.<br><br>Data Structures Implementation: Implemented various data structures, such as linked lists, stacks, queues, and binary trees, in C++. Designed and implemented algorithms for common operations on these data structures.<br><br>Interests:<br>Aside from coding and programming, I have a keen interest in staying updated with the latest technological advancements and exploring new frameworks and libraries related to web development. I enjoy collaborating with other developers and actively engaging in coding communities to share knowledge and gain insights from fellow programmers.<br><br>I am passionate about learning and improving my skills, and I believe that GitHub provides an excellent platform for me to showcase my projects and collaborate with other developers.<br><br>Feel free to explore my repositories, contribute to my projects, or reach out to me for any coding-related discussions or collaboration opportunities. Let's connect and build something amazing together!
+## 📝 About Me
 
+I'm Fluk, a dedicated coder and programmer with a strong focus on web development. Currently pursuing my B.Tech degree, I'm always eager to expand my coding skills.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/5rgW3cJTPM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vxrunrxj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varunraj-desai-7b208425a/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/FlukM) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@flukmav) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/FluKM) 
+## 💻 IDEs I Use
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![BlueJ](https://img.shields.io/badge/-BlueJ-68A063?style=plastic&logo=bluej&logoColor=white) ![VScode](https://img.shields.io/badge/-VSCode-00979D?style=plastic&labelColor=black&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white)
+
+## 🆒 Languages 
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+
+##  🌐 Socials
+
+[![Personal Website](https://img.shields.io/badge/-Website-007ACC?style=plastic&logo=brave&logoColor=white)](www.flukm.github.io) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/5rgW3cJTPM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vxrunrxj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varunraj-desai-7b208425a/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@flukmav) [![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=plastic&logo=blogger&logoColor=white)](https://flukmav.blogspot.com)
+
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=FluKM&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FluKM&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FluKM&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤓 Visit Counter
+
+[![](https://visitcount.itsvg.in/api?id=FluKM&icon=7&color=0)](https://visitcount.itsvg.in)
